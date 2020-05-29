@@ -1,12 +1,12 @@
 # ETL_Project
 
 #### By: Felix Barron and Gio Leonardo
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
-
-![NBA Players stats since 1950](https://www.kaggle.com/drgilermo/nba-players-stats)
+[NBA Players stats since 1950](https://www.kaggle.com/drgilermo/nba-players-stats)
 •	3000+ players over 60+ Seasons.
 
-Source ![data.world](http://daeta.world)
+Source [data.world](http://daeta.world)
 
 #### Data Sources:
 - Seasons_Status.csv
@@ -21,7 +21,7 @@ We use these datasets in order to compare NBA players with more than ten seasons
 - Assist
 
 #### Extract: 
-We pulled two CSV data source (Players_data.csv, and Seasons_Stats.csv) from http://data.world and used them as our source.
+We pulled two CSV data source (Players_data.csv, and Seasons_Stats.csv) from [data.world](http://data.world) and used them as our source.
 
 #### Transformation of the data:
 We imported the two data sources (Players_data.csv, and Seasons_Stats.csv) into Pandas.
@@ -41,10 +41,10 @@ Conducted data analysis using JOIN and sub query processes to obtain for the fol
 
 
 ##### Figure 1: Shows DataFrame before transformation.
-![Data Frame Before Transformation](resources/data_frame_before_transform)
+![Data Frame Before Transformation](resources/data_frame_before_transform.PNG)
 
 ##### Figure 2: Shows DataFrame after transformation.
-![Data Frame After Transformation](resources/data_frame_after_transform)
+![Data Frame After Transformation](resources/data_frame_after_transform.PGN)
 
 ##### Figure 3: Shows SQL Final Data Output
-![SQL Data Output](resources/sql_data_output.PGN)
+![SQL Data Output](resources/sql_data_output.PNG)
