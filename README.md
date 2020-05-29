@@ -8,8 +8,8 @@
 Source [data.world](http://daeta.world)
 
 #### Data Sources:
-- Seasons_Status.csv
-- Player_data.csv
+- [Seasons_Status.csv](resources/new_season_stats.csv)
+- [Player_data.csv](resources/new_player_data.csv)
 
 The dataset contains aggregate individual statistics for 67 NBA seasons. from basic box-score attributes such as points, assists, rebounds etc.
 
@@ -31,7 +31,7 @@ Made connection with the Postgres SQL database.
 Verified tables that we had already created in SQL via Postgres Admin. 
 Finally, loaded the data from Panda DataFrames into the SQL database and verified players and stats were loaded.
  
-#### SQL Verification
+#### [SQL code](resources/player_query.sql) Verification
 Conducted data analysis using JOIN and sub query processes to obtain for the following player data.
 - Players who played more than 10 seasons.
 - Players total points.
