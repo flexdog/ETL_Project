@@ -41,10 +41,10 @@ Conducted data analysis using JOIN and sub query processes to obtain for the fol
 
 
 ##### Figure 1: Shows DataFrame before transformation.
-![Data Frame Before Transformation](data_frame_before_transform)
+![Data Frame Before Transformation](resources/data_frame_before_transform)
 
 ##### Figure 2: Shows DataFrame after transformation.
-![Data Frame After Transformation](data_frame_after_transform)
+![Data Frame After Transformation](resources/data_frame_after_transform)
 
 ##### Figure 3: Shows SQL Final Data Output
-![SQL Data Output](sql_data_output.PGN)
+![SQL Data Output](resources/sql_data_output.PGN)
