@@ -1,7 +1,6 @@
 # ETL_Project
 
-#### By: Felix Barron and Gio Leonardo
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+#### By: Felix Barron and Gio Leonardo :+1:
 
 [NBA Players stats since 1950](https://www.kaggle.com/drgilermo/nba-players-stats)
 •	3000+ players over 60+ Seasons.
@@ -44,7 +43,7 @@ Conducted data analysis using JOIN and sub query processes to obtain for the fol
 ![Data Frame Before Transformation](resources/data_frame_before_transform.PNG)
 
 ##### Figure 2: Shows DataFrame after transformation.
-![Data Frame After Transformation](resources/data_frame_after_transform.PGN)
+![Data Frame After Transformation](resources/data_frame_after_transform.PNG)
 
 ##### Figure 3: Shows SQL Final Data Output
 ![SQL Data Output](resources/sql_data_output.PNG)
